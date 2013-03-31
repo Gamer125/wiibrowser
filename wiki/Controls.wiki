@@ -1,0 +1,28 @@
+#summary Controls reference.
+#labels Featured
+
+= Introduction =
+
+With revision 70 controls changed a bit to be more similar to opera-wii ones.<br>
+This is a brief explanation of new controls and shortcuts.
+
+== Controls ==
+
+  * Wiimote Aim                       Move pointer
+  * Wiimote Button A                  Click buttons
+  * Wiimote Button B (Hold)           Free scroll
+  * Wiimote DPad                      Navigate
+  * Wiimote Plus Button               Open app bar
+  * Wiimote Minus Button              Close app bar
+  * Wiimote Button 1                  Restore default view
+  * Wiimote Home Button               Exit app
+  * Wiimote Power Button              Turn off Wii
+
+== Shortcuts ==
+
+  * B + Directional pad up: Refresh current page
+  * B + Directional pad down: Save page
+  * B + Directional pad left: Browse homepage
+  * B + Directional pad right: Enter new URL
+  * B + (-) key : Go back a page
+  * B + (+) Key: Go forward one page
