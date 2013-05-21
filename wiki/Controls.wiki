@@ -14,7 +14,8 @@ This is a brief explanation of new controls and shortcuts.
   * Wiimote DPad                      Navigate
   * Wiimote Plus Button               Open app bar
   * Wiimote Minus Button              Close app bar
-  * Wiimote Button 1                  Restore default view
+  * Wiimote Button 1                  Take screenshot
+  * Wiimote Button 2                  Restore default view
   * Wiimote Home Button               Exit app
   * Wiimote Power Button              Turn off Wii
 
